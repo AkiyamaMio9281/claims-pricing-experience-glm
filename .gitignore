@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Outputs / logs (usually large)
+outputs/
+logs/
+
+# Data (avoid uploading raw/processed datasets)
+data/raw/
+data/processed/
+
+# Excel temp
+~$*.xlsx
